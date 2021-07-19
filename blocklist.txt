@@ -6,6 +6,9 @@
 ## You are welcome to share, copy, redistibute, remix and transform this content
 ## You must give appropriate credit, and not use this list for commercial purposes
 
+# I use other blocklists, so this file only serves me for ads I see that are not blocked by previous ones
+# For the ones I mainly use, take a look at : https://firebog.net/ (and thanks to them btw)
+
 # Ads
 highwebmedia.com
 chaturbate.com
