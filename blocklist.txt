@@ -1,0 +1,10 @@
+
+# Personal Blocklist by Moya-A (https://github.com/moya-a)
+# Content added to this list has been manually verified, and is updated irregularly
+
+# Licensing: MIT
+## You are welcome to share, copy, redistibute, remix and transform this content
+## You must give appropriate credit, and not use this list for commercial purposes
+
+# Ads
+0.0.0.0 highwebmedia.com
