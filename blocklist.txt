@@ -10,13 +10,13 @@
 # For the ones I mainly use, take a look at : https://firebog.net/ (and thanks to them btw)
 
 # Ads
-highwebmedia.com
-chaturbate.com
-syndication.twitter.com
-syndication.realsrv.com
-ttbm.com
-superviril.com
-adktrack.com
-ads.trafficjunky.net
-sexe.net
-ajump.link
+0.0.0.0 highwebmedia.com
+0.0.0.0 chaturbate.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 syndication.realsrv.com
+0.0.0.0 ttbm.com
+0.0.0.0 superviril.com
+0.0.0.0 adktrack.com
+0.0.0.0 ads.trafficjunky.net
+0.0.0.0 sexe.net
+0.0.0.0 ajump.link
